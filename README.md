@@ -52,7 +52,6 @@ Precisamos pensar nos calculos em funcao de P, pois esse eh o valor que vai ser 
 
   ![Texto alternativo da imagem](file:///Users/filiperaposo/Desktop/Screenshot%202023-09-04%20at%2019.35.06.png)
 
-
-  
-  
-  
+<p align = "center >   
+ <img widht="470" src = "/Fake-progressBar/Screenshot 2023-09-04 at 19.35.06.png">
+</p>  

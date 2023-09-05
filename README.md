@@ -3,7 +3,7 @@
 Um projeto simples, mas que ressalta a importância da matemática na programação, unindo matemática, marketing e, claro, programação.
 
 <p align="center">
-  <img src="https://github.com/Filipemrr/Fake-progressBar/blob/Projects/ezgif.com-video-to-gif.gif" alt="Texto alternativo da imagem" width="600">
+  <img src="Filipemrr/Fake-progressBar/Images/ezgif.com-video-to-gif.gif" alt="Texto alternativo da imagem" width="600">
 </p>
 
 ## Propósito
@@ -53,7 +53,7 @@ Precisamos pensar nos cálculos em função de P, pois esse é o valor que vai s
 ### Usando x^2 + 2x, temos:
 
 <p align="center">
-  <img src="https://github.com/Filipemrr/Fake-progressBar/blob/Projects/Screenshot%202023-09-04%20at%2019.35.06.png" alt="Texto alternativo da imagem" width="600">
+  <img src="images/Screenshot%202023-09-04%20at%2019.35.06.png" alt="Texto alternativo da imagem" width="600">
 </p>
 
 

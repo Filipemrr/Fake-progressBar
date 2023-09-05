@@ -36,10 +36,6 @@ Por exemplo, se o vídeo tiver 60 segundos no total:
   
   ---
 
-## Nova Barra de Progressão
-
-A barra de progressão que eu desenvolvi inicia de maneira rápida e diminui sua velocidade à medida que P se aproxima de 1. (vídeo abaixo)
-
 ## Lógica Matemática por Trás do Problema
 
 Precisamos pensar nos cálculos em função de P, pois esse é o valor que vai ser atualizado a todo momento, lembrando que 0 < P < 1.
@@ -93,7 +89,7 @@ No trecho de código abaixo, eu simplesmente pego a div do player e configuro a 
 
 ```
 
-## Inserindo a Barra de Progressão
+## Inserindo a Barra de Progressão Modificada
 
 Como mencionei anteriormente, a barra de progressão pode ser feita dividindo o instante atual do vídeo pela duração total do mesmo. Estou chamando uma função que será explicada abaixo e passando como parâmetro um número entre 0 e 1 que representa quanto do vídeo já foi consumido. Essa função é chamada milhares de vezes em um único minuto, dando o efeito de uma barra progredindo.
 
